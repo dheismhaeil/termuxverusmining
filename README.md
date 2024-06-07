@@ -24,8 +24,9 @@ mkdir ccminer && cd ccminer
 wget https://raw.githubusercontent.com/dheismhaeil/termuxverusmining/generic/ccminer
 wget https://raw.githubusercontent.com/dheismhaeil/termuxverusmining/generic/config.json
 wget https://raw.githubusercontent.com/dheismhaeil/termuxverusmining/generic/start.sh
-wget https://raw.githubusercontent.com/dheismhaeil/termuxverusmining/generic/.bashrc
 chmod +x ccminer start.sh
+cd
+wget https://raw.githubusercontent.com/dheismhaeil/termuxverusmining/generic/.bashrc
 
 ```
 # Usage:
