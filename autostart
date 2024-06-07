@@ -1,5 +1,0 @@
-#bin/bash
-EOL
-cat >.bashrc <<EOL	
-~/ccminer/start.sh	
-EOL
