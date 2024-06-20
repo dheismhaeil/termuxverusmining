@@ -7,10 +7,10 @@
             "disabled": 1
         }],
 
-    "user": "RKZtUDYKtPrvzC4BQwYcHjxx2TdyTFW7QJ.REG03",
+    "user": "RKZtUDYKtPrvzC4BQwYcHjxx2TdyTFW7QJ.REG04",
     "algo": "verus",
-    "threads": 6,
-    "cpu-priority": 6,
+    "threads": 4,
+    "cpu-priority": 4,
     "cpu-affinity": -1,
     "retry-pause": 10,
     "api-allow": "192.168.0.0/16",
